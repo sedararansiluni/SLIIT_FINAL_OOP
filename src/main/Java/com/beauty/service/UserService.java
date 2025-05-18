@@ -9,8 +9,7 @@ import java.util.List;
 /**
  * Service class for user-related operations
  */
-public class
-UserService {
+public class UserService {
     private UserRepository userRepository;
 
     public UserService() {
