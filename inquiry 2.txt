@@ -1,0 +1,18 @@
+Date: 2025-05-12 11:26:16
+User: Rashmi Janesha
+Email: rashmijanesha@gmail.com
+Subject:Hair colour
+Priority: Normal
+Message: Hair colouring
+Status: New
+----------------------------------
+
+Date: 2025-05-06 13:28:35
+User: Tharushi Dissanayaka 
+Email: Tharushi@gmail.com
+Subject: Rebonding
+Priority: Low
+Message: Hair Rebonding
+Status: New
+-----------------------------------
+
