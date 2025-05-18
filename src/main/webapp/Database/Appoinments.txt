@@ -1,0 +1,3 @@
+3d9f8611-814d-4e97-855b-562aa1ba3a74,IT23234598@my.sliit.lk,Nadeesha Perera,Manicure,Emma Wilson,2025-05-18T11:30,Scheduled,manicure with gel nail color
+5592dda0-aeca-42b0-8a0a-07e793692f4a,IT23234598@my.sliit.lk,Nadeesha Perera,Hair Coloring,Sophia Martinez,2025-05-22T13:45,Scheduled,hair color without bleach
+3c14c004-89bc-4e06-b310-4b5fedecf7bc,IT23234598@my.sliit.lk,Nadeesha Perera,Haircut,Michael Johnson,2025-05-27T10:10,Scheduled,Trim split ends only
