@@ -1,27 +1,33 @@
 package com.beauty.model;
 
-public class Person {
-
-    private String firstName;
-    private String lastName;
+public class Person extends User {
+    private String role;
 
     public Person() {
+        super();
     }
 
-    public String getFirstName() {
-        return firstName;
+    public Person(String firstName, String lastName, String email, String phoneNumber, String password, String role) {
+        super(firstName, lastName, email, phoneNumber, password);
+        this.role = role;
     }
 
-    public void setFirstName(String firstName) {
-        this.firstName = firstName;
+    public String getRole() {
+        return role;
     }
 
-    public String getLastName() {
-        return lastName;
+    public void setRole(String role) {
+        this.role = role;
     }
 
-    public void setLastName(String lastName) {
-        this.lastName = lastName;
+    @Override
+    public String toString() {
+        return "Person{" +
+                "firstName='" + getFirstName() + '\'' +
+                ", lastName='" + getLastName() + '\'' +
+                ", email='" + getEmail() + '\'' +
+                ", phoneNumber='" + getPhoneNumber() + '\'' +
+                ", role='" + role + '\'' +
+                '}';
     }
-
 }
